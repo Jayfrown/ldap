@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+6.1
+---
+
+ * Return a 500 Internal Server Error if LDAP server in unavailable during user enumeration / authentication
+
 6.0
 ---
 
